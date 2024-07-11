@@ -1,6 +1,5 @@
 #Циклический буфер FIFO
 #Реализация 1: С использованием списка
-from lib2to3.pytree import Node
 
 
 class CircularBufferList:
